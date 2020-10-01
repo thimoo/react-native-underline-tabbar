@@ -35,8 +35,7 @@
   },
   "homepage": "https://github.com/Slowyn/react-native-underline-tabbar#readme",
   "peerDependencies": {
-    "react-native": ">=0.20.0",
-    "react-native-gesture-handler": "^1.6.1"
+    "react-native": ">=0.20.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.1",
@@ -54,5 +53,7 @@
     "flow-bin": "^0.56.0",
     "prettier": "^1.7.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "react-native-gesture-handler": "^1.6.1"
+  }
 }
